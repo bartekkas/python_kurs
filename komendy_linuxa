@@ -1,0 +1,22 @@
+cd .. | cd <path>
+cd ~
+ls -ls
+mkdir
+rm
+rm -f
+adduser
+addgroup
+cp <source> <dest>
+ssh user@<adres>
+reboot
+shutdown
+mv <source> <taget>
+mv <source> <target> zmiana nazwy
+pwd - wyświetla gdzie jesteśmy
+ps aux
+netstat
+systemctl stop|start|restart|reload <serwis>
+apt install
+ip addr
+clear
+sudo su -
