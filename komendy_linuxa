@@ -20,3 +20,6 @@ apt install
 ip addr
 clear
 sudo su -
+chmod
+chown
+chgrp
